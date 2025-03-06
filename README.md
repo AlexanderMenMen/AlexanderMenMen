@@ -64,8 +64,8 @@ When I’m not coding, I enjoy:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AlexanderMenMen&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMenMen&theme=react&layout=compact" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AlexanderMenMen&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMenMen&theme=react&layout=compact" />
 </p>
 
 ---
