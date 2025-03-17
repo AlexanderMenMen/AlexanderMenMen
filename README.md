@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 About Me  
+### 💻 About Me  
 I am a **Computer Engineering** student, currently halfway through my degree. Passionate about technology, I am constantly learning and expanding my knowledge.  
 
 I have experience in **web and mobile development**, and I have a strong interest in **Artificial Intelligence** and **Machine Learning**. I enjoy developing solutions that are **efficient, innovative, and impactful**. 
@@ -38,7 +38,7 @@ When I’m not coding, I enjoy:
 
 ---
 
-## 🛠 My Skills  
+### 🛠 My Skills  
 
 ### 💡 Programming Languages  
 <span>  
@@ -67,11 +67,11 @@ When I’m not coding, I enjoy:
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlexanderMenMen&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMenMen&theme=react&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMenMen&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
