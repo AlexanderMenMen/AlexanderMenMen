@@ -9,24 +9,26 @@
 ---
 
 ### 💻 About Me  
-I am a **Computer Engineering** student, currently halfway through my degree. Passionate about technology, I am constantly learning and expanding my knowledge.  
+Final-year **Computer Engineering** student at Rey Juan Carlos University (URJC), with a background as a Higher Technician in Multiplatform Application Development.
 
-I have experience in **web and mobile development**, and I have a strong interest in **Artificial Intelligence** and **Machine Learning**. I enjoy developing solutions that are **efficient, innovative, and impactful**. 
+Currently working as a **Software Developer Intern at Indra Sistemas**, where I'm contributing to command and control applications using **Java, Spring Boot, Swing and MongoDB**.
 
-### 🌱 Currently Learning
+Passionate about **technology, innovation**, and constantly learning. I enjoy building **efficient, robust, and impactful solutions**, especially in areas like **backend development, AI, and distributed systems**.
 
-- **Concurrent Programming** (Java, Parallel processing, multithreading)
-- **Functional Programming** (Haskell, higher-order functions)
-- **Spring MVC** (Backend development with Java)
-- **Intelligent Systems** (AI models, heuristic algorithms)
-- **Introduction to AI with Python** (Machine Learning basics)
-- **Exploring Cloud Computing** (Java-based cloud services)
+### 🌱 Expanding My Knowledge & Upcoming Focus
+
+- **Advanced Algorithms** (graph theory, dynamic programming, optimization techniques)  
+- **Computer Vision** (image processing, OpenCV, object detection)  
+- **Cloud Computing & Microservices** (Java-based deployment, Docker, CI/CD with Jenkins)  
+- **Distributed Systems** (concurrent programming, parallel computing, message queues)  
+- **Backend Development Mastery** (Spring Boot, RESTful APIs, MongoDB, security & authentication)  
+- **AI & Machine Learning** (Python, heuristic models, real-world applications)
 
 ### 🚀 What I’m Looking For
 
-- Contributing to **open-source projects** in **AI, Java backend, or cloud computing**.
-- Engaging in initiatives that **combine AI, functional programming, and distributed systems**.
-- Learning more about **scalable cloud architectures** and **Java integration** in the cloud.
+- Contributing to **open-source projects** in **Java backend, AI, or cloud development**.
+- Collaborating on initiatives that blend **AI, functional programming, and distributed systems**.
+- Deepening my knowledge of **scalable cloud architectures** and **Java-based integrations**.
 
 ### 🎮 Outside of Tech
 
@@ -77,4 +79,5 @@ When I’m not coding, I enjoy:
 
 ---
 
-🔥 **Fun Fact:** _Code is like humor. When you have to explain it, it’s bad!_ 😆  
+🔥 **Fun Fact:** I debug not just code, but also my coffee machine when it fails 😅
+ 
