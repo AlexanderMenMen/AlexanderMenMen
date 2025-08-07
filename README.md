@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Passionate+about+Technology+and+Innovation;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2339FF14&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Passionate+about+Technology+and+Innovation;Always+Learning+New+Things">
   </a>
 </p>
 
@@ -76,9 +76,11 @@ When I’m not coding, I enjoy:
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlexanderMenMen&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMenMen&layout=compact&theme=react&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlexanderMenMen&theme=dark&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=39FF14&text_color=ffffff" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMenMen&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=ffffff" />
 </p>
+
+
 
 ---
 
